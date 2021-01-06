@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": ".",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-cancel-request": "^1.0.3",
     "error-overlay-webpack-plugin": "^0.4.1",
     "react": "^16.13.1",
